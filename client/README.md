@@ -66,9 +66,7 @@ src/
 
 ⚙️ Installation & Setup
 
-1️⃣ Clone the repository
 
-git clone https://github.com/your-username/media-search-app.git
 
 
 2️⃣ Install dependencies
